@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  inproxy-node:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: psiphon-inproxy
+    restart: unless-stopped
+    volumes:
+      - inproxy-data:/data
+    environment:
+      - TZ=UTC
+
+volumes:
+  inproxy-data:
+    driver: local
